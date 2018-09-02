@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+npm-debug.log
+.idea
+.travis/deploy_key
+.travis/deploy_key.pem
+.travis/deploy_key.pub
